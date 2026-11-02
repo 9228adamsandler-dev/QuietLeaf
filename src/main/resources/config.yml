@@ -1,0 +1,4 @@
+disable-join-messages: true
+disable-leave-messages: true
+disable-death-messages: true
+disable-advancement-announcements: true

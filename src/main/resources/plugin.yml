@@ -1,0 +1,6 @@
+name: QuietLeaf
+version: 1.0.0
+main: dev.quietleaf.QuietLeaf
+api-version: '1.21'
+description: Disables join, leave, death, and advancement announcements.
+author: QuietLeaf
